@@ -4,14 +4,14 @@
 </p>
 
 
-## Coding in Action
+
 <p>
   <img src="https://i.pinimg.com/originals/b4/3a/9a/b43a9a78438313a7d2d8e6dfcaef8e8d.gif" alt="Girl typing at computer">
 </p>
 
 
 ## About Me
-I'm Raksha. I’m a quick learner and highly proactive when it comes to new technologies. I have a passion for staying updated with the latest trends and advancements in the tech world. My eagerness to embrace anything positive and effective makes me an asset in dynamic and innovative environments.
+I'm Raksha.  I’m a quick learner and highly proactive when it comes to new technologies. I have a passion for staying updated with the latest trends and advancements in the tech world. My eagerness to embrace anything positive and effective makes me an asset in dynamic and innovative environments.
 ## Pronouns
 - she/her
 ## Educational Qualification
@@ -49,9 +49,7 @@ I'm Raksha. I’m a quick learner and highly proactive when it comes to new tech
 
 
 🌱I am currently learning
--PHP
--Machine Learning 
--Deep Learning.
+PHP and expertising in Machine Learing
 
 ## Projects
 [Click here for my projects](https://github.com/Rakshaus)
